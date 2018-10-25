@@ -1,0 +1,78 @@
+PanoramaStudioViewerParams = {
+"panoramaStudioViewer": {
+"key": "",
+"control": {
+        "mousemode": "drag",
+        "touchmode": "drag"
+    },
+"data": {
+        "id": "globalData",
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+    },
+"include": [
+        {
+            "src": "вход в школу_controls.json"
+        }
+    ],
+"node": {
+	"autoplay": {
+	        "pan": 2,
+	        "restart": 5,
+	        "status": "off",
+	        "tilt": 0,
+	        "zoom": 1
+	    },
+	"camera": {
+	        "maxpan": 360,
+	        "maxtilt": 22.068390325271064,
+	        "minpan": 0,
+	        "mintilt": -20.116763969974983
+	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_right.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/панорама/хол%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "100.1630,7.6730",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Хол"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_left.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/панорама/хол%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "139.5897,8.0182",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Хол"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
+	"id": "вход в школу",
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"вход в школу_tiles/вход в школу_t_1b_%0y_%0x.jpg"},"down":{"src":"вход в школу_tiles/вход в школу_t_1d_%0y_%0x.jpg"},"front":{"src":"вход в школу_tiles/вход в школу_t_1f_%0y_%0x.jpg"},"height":6641,"left":{"src":"вход в школу_tiles/вход в школу_t_1l_%0y_%0x.jpg"},"right":{"src":"вход в школу_tiles/вход в школу_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"вход в школу_tiles/вход в школу_t_1u_%0y_%0x.jpg"},"width":6641},{"back":{"src":"вход в школу_tiles/вход в школу_t_2b_%0y_%0x.jpg"},"down":{"src":"вход в школу_tiles/вход в школу_t_2d_%0y_%0x.jpg"},"front":{"src":"вход в школу_tiles/вход в школу_t_2f_%0y_%0x.jpg"},"height":3320,"left":{"src":"вход в школу_tiles/вход в школу_t_2l_%0y_%0x.jpg"},"right":{"src":"вход в школу_tiles/вход в школу_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"вход в школу_tiles/вход в школу_t_2u_%0y_%0x.jpg"},"width":3320},{"back":{"src":"вход в школу_tiles/вход в школу_t_3b_%0y_%0x.jpg"},"down":{"src":"вход в школу_tiles/вход в школу_t_3d_%0y_%0x.jpg"},"front":{"src":"вход в школу_tiles/вход в школу_t_3f_%0y_%0x.jpg"},"height":1660,"left":{"src":"вход в школу_tiles/вход в школу_t_3l_%0y_%0x.jpg"},"right":{"src":"вход в школу_tiles/вход в школу_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"вход в школу_tiles/вход в школу_t_3u_%0y_%0x.jpg"},"width":1660},{"back":{"src":"вход в школу_tiles/вход в школу_t_4b_%0y_%0x.jpg"},"down":{"src":"вход в школу_tiles/вход в школу_t_4d_%0y_%0x.jpg"},"front":{"src":"вход в школу_tiles/вход в школу_t_4f_%0y_%0x.jpg"},"height":830,"left":{"src":"вход в школу_tiles/вход в школу_t_4l_%0y_%0x.jpg"},"right":{"src":"вход в школу_tiles/вход в школу_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"вход в школу_tiles/вход в школу_t_4u_%0y_%0x.jpg"},"width":830},{"back":{"src":"вход в школу_tiles/вход в школу_t_5b_%0y_%0x.jpg"},"down":{"src":"вход в школу_tiles/вход в школу_t_5d_%0y_%0x.jpg"},"front":{"src":"вход в школу_tiles/вход в школу_t_5f_%0y_%0x.jpg"},"height":415,"left":{"src":"вход в школу_tiles/вход в школу_t_5l_%0y_%0x.jpg"},"right":{"src":"вход в школу_tiles/вход в школу_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"вход в школу_tiles/вход в школу_t_5u_%0y_%0x.jpg"},"width":415}],"multilevel":true,"preview":{"src":"вход в школу_tiles/вход в школу_preview.jpg"},"projection":"cubic"},
+	"view": {
+	        "hfov": 63.27773144286908,
+	        "pan": 180,
+	        "tilt": 0
+	    }
+},
+"version": "4.1"
+}
+}
