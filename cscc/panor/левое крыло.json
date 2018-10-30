@@ -1,0 +1,73 @@
+PanoramaStudioViewerParams = {
+"panoramaStudioViewer": {
+"key": "",
+"control": {
+        "mousemode": "drag",
+        "touchmode": "drag"
+    },
+"data": {
+        "id": "globalData",
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+    },
+"include": [
+        {
+            "src": "левое крыло_controls.json"
+        }
+    ],
+"node": {
+	"autoplay": {
+	        "pan": 2,
+	        "restart": 5,
+	        "status": "off",
+	        "tilt": 0,
+	        "zoom": 1
+	    },
+	"camera": {
+	        "maxpan": 360,
+	        "maxtilt": 30.430327868852462,
+	        "minpan": 0,
+	        "mintilt": -39.65163934426229
+	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/хол%20левая%20часть.html",
+	            "opacity": "1.00;1.00",
+	            "position": "320.0151,4.7426",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Хол лево"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/левое%20крыло%202.html",
+	            "opacity": "1.00;1.00",
+	            "position": "138.9138,8.7415",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
+	"id": "левое крыло",
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"левое крыло_tiles/левое крыло_t_1b_%0y_%0x.jpg"},"down":{"src":"левое крыло_tiles/левое крыло_t_1d_%0y_%0x.jpg"},"front":{"src":"левое крыло_tiles/левое крыло_t_1f_%0y_%0x.jpg"},"height":6763,"left":{"src":"левое крыло_tiles/левое крыло_t_1l_%0y_%0x.jpg"},"right":{"src":"левое крыло_tiles/левое крыло_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"левое крыло_tiles/левое крыло_t_1u_%0y_%0x.jpg"},"width":6763},{"back":{"src":"левое крыло_tiles/левое крыло_t_2b_%0y_%0x.jpg"},"down":{"src":"левое крыло_tiles/левое крыло_t_2d_%0y_%0x.jpg"},"front":{"src":"левое крыло_tiles/левое крыло_t_2f_%0y_%0x.jpg"},"height":3381,"left":{"src":"левое крыло_tiles/левое крыло_t_2l_%0y_%0x.jpg"},"right":{"src":"левое крыло_tiles/левое крыло_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"левое крыло_tiles/левое крыло_t_2u_%0y_%0x.jpg"},"width":3381},{"back":{"src":"левое крыло_tiles/левое крыло_t_3b_%0y_%0x.jpg"},"down":{"src":"левое крыло_tiles/левое крыло_t_3d_%0y_%0x.jpg"},"front":{"src":"левое крыло_tiles/левое крыло_t_3f_%0y_%0x.jpg"},"height":1690,"left":{"src":"левое крыло_tiles/левое крыло_t_3l_%0y_%0x.jpg"},"right":{"src":"левое крыло_tiles/левое крыло_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"левое крыло_tiles/левое крыло_t_3u_%0y_%0x.jpg"},"width":1690},{"back":{"src":"левое крыло_tiles/левое крыло_t_4b_%0y_%0x.jpg"},"down":{"src":"левое крыло_tiles/левое крыло_t_4d_%0y_%0x.jpg"},"front":{"src":"левое крыло_tiles/левое крыло_t_4f_%0y_%0x.jpg"},"height":845,"left":{"src":"левое крыло_tiles/левое крыло_t_4l_%0y_%0x.jpg"},"right":{"src":"левое крыло_tiles/левое крыло_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"левое крыло_tiles/левое крыло_t_4u_%0y_%0x.jpg"},"width":845},{"back":{"src":"левое крыло_tiles/левое крыло_t_5b_%0y_%0x.jpg"},"down":{"src":"левое крыло_tiles/левое крыло_t_5d_%0y_%0x.jpg"},"front":{"src":"левое крыло_tiles/левое крыло_t_5f_%0y_%0x.jpg"},"height":422,"left":{"src":"левое крыло_tiles/левое крыло_t_5l_%0y_%0x.jpg"},"right":{"src":"левое крыло_tiles/левое крыло_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"левое крыло_tiles/левое крыло_t_5u_%0y_%0x.jpg"},"width":422}],"multilevel":true,"preview":{"src":"левое крыло_tiles/левое крыло_preview.jpg"},"projection":"cubic"},
+	"view": {
+	        "hfov": 90,
+	        "pan": 180,
+	        "tilt": 0
+	    }
+},
+"version": "4.1"
+}
+}
