@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Реальная Виртуальность</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-question.css" rel="stylesheet">
+</head>
+<body>
+ 
+ 
+ 
+ 
+ 
+     <script language="JavaScript">
+
+       window.addEventListener("load",function() {
+        document.getElementById("b").addEventListener("click",function(){
+          var element = document.getElementById("id1");
+          if (element.checked) {
+              window.location.href = "http://www.softtime.ru"
+          }
+        });
+      });
+     </script>
+ 
+ 
+ 
+ 
+ 
+  <header>
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-3"></div>
+           <div class="col-lg-6">
+                <form class="text-center bg-aqua-gradient border border-light p-5">
+                    <!-- Default form login -->
+                    <div class="view card-shandy view-cascade gradient-card-header aqua-gradient">
+                        <p class="h4 mb-4 white-text text-shadow">Пройдите тест</p>
+                    </div>
+                    <!-- First -->
+                    <label class="text-shadow big white-text" for="textInput">Сколько хромосом у здорового человека?</label>
+                    <div class="row">
+                        <input type="radio" name="res"/><p class="little text-shadow white-text answer">1434</p>
+                    </div>  
+                    <div class="row">
+                        <input  id="id1" type="radio" name="res"/><p class="little text-shadow white-text answer">46</p>
+                    </div>  
+                    <div class="row">
+                        <input type="radio" name="res"/><p class="little text-shadow white-text answer">1500</p>
+                    </div>  
+                    <div class="row">
+                        <input type="radio" name="res"/><p class="little text-shadow white-text answer">1</p>
+                    </div>
+
+                    
+                    <button id="b" type="button" class="btn btn-outline-primary btn-rounded btn-cyan text-shadow waves-effect">Ответить</button>
+
+                </form>
+                <!-- Default form login -->
+           </div>
+           <div class="col-lg-3"></div>
+       </div>
+   </div>
+  </header>          
+            
+    
+</body>
+</html>

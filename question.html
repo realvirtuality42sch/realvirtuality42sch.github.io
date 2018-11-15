@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Реальная Виртуальность</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+ 
+ 
+ 
+ 
+ 
+     <script language="JavaScript">
+
+       window.addEventListener("load",function() {
+        document.getElementById("b").addEventListener("click",function(){
+          var element = document.getElementById("id1");
+          var element2 = document.getElementById("id2");
+          var element3 = document.getElementById("id3");
+          if ((element.checked)&&(element2.checked)&&(element3.checked)) {
+              window.location.href = "http://www.softtime.ru"
+          }
+        });
+      });
+     </script>
+ 
+ 
+ 
+ 
+ 
+  <header>
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-3"></div>
+           <div class="col-lg-6">
+                <form class="text-center bg-aqua-gradient border border-light p-5">
+                    <!-- Default form login -->
+                    <div class="view card-shandy view-cascade gradient-card-header aqua-gradient">
+                        <p class="h4 mb-4 white-text text-shadow">Пройдите тест</p>
+                    </div>
+                    <!-- First -->
+                    <label class="text-shadow big white-text" for="textInput">Что запрещается делать в кабинете информатики?</label>
+                    <div class="row">
+                        <input id="id1" type="checkbox"/><p class="little text-shadow white-text answer">Работать грязными, влажными руками</p>
+                    </div>  
+                    <div class="row">
+                        <input  id="id2" type="checkbox"/><p class="little text-shadow white-text answer">Находиться в класе с едой и напитками</p>
+                    </div>  
+                    <div class="row">
+                        <input id="id3" type="checkbox"/><p class="little text-shadow white-text answer">Включать и выключать компьюте без разрешения учителя</p>
+                    </div>  
+                    <div class="row">
+                        <input type="checkbox"/><p class="little text-shadow white-text answer">Контролировать расстояние до экрана и правильную осанку</p>
+                    </div>
+                    <div class="row">
+                        <input type="checkbox"/><p class="little text-shadow white-text answer">Соблюдать тишину и порядок</p>
+                    </div> 
+
+                    
+                    <button id="b" type="button" class="btn btn-outline-primary btn-rounded btn-cyan text-shadow waves-effect">Ответить</button>
+
+                </form>
+                <!-- Default form login -->
+           </div>
+           <div class="col-lg-3"></div>
+       </div>
+   </div>
+  </header>          
+            
+    
+</body>
+</html>
