@@ -1,0 +1,141 @@
+.tittle {
+    font-size: 3em;
+    padding: 65px 0;
+}
+
+h4 {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+section {
+    padding: 55px 0;
+}
+
+.padding-50 {
+    padding: 50px 0;
+}
+
+.school {
+    width: 90%;
+}
+
+.padding-10 {
+    padding: 10px 0;
+}
+
+.btn-rounded {
+    border-radius: 10em;
+}
+
+.text-shadow {
+    text-shadow:2px 2px 6px rgba(0, 0, 0, 0.32);
+}
+
+.big {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.little {
+  font-size: 15px;
+}
+
+input {
+  margin-top: 5px;
+}
+
+#about-us {
+    background: url(../img/2.svg) center top / cover no-repeat fixed;
+}
+
+#musem {
+    background: url(../img/3.svg) center top / cover no-repeat fixed;
+}
+
+.answer {
+  margin-left: 10px;
+}
+
+.bg-aqua-gradient {
+    background: -moz-linear-gradient(45deg, rgba(32, 150, 255, 0.35), rgba(5, 255, 163, 0.15) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(32, 150, 255, 0.35), rgba(5, 255, 163, 0.15) 100%);
+    background: linear-gradient(to 45deg, rgba(32, 150, 255, 0.35), rgba(5, 255, 163, 0.15) 100%);
+}
+
+.answer-center {
+  margin: 0 auto;
+}
+
+.left {
+    margin-left: auto;
+    margin-right: 10px; 
+}
+
+h1 {
+    font-size: 45px;
+    vertical-align: bottom;
+}
+
+.margin-20 {
+    margin: 40px 20px;
+}
+
+.margin-10 {
+    margin: 10px 0;
+}
+
+.thumb-wrap {
+  position: relative;
+  padding-bottom: 56.25%; /* задаёт высоту контейнера для 16:9 (если 4:3 — поставьте 75%) */
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+.thumb-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.center {
+    padding-top: 30%;
+}
+
+.email {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.vk {
+    color: #4a76a8;
+}
+
+.inst {
+    color: #e600a2;
+}
+
+.facebook {
+    color: #0072e6;
+}
+
+.view {
+height: 100%;
+}
+
+@media (max-width: 740px) {
+  .view {
+    height: 100%;
+  }
+}
+
+
+
+.rgba-gradient {
+  background: -moz-linear-gradient(45deg, rgba(0, 188, 212, 0.6), rgba(76, 175, 80, 0.69) 100%);
+  background: -webkit-linear-gradient(45deg, rgba(20, 188, 212, 0.6), rgba(76, 175, 80, 0.69) 100%);
+  background: linear-gradient(to 45deg, rgba(0, 188, 212, 0.6), rgba(76, 175, 80, 0.69) 100%);
+
+}
