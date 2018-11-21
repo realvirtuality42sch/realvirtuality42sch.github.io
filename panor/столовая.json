@@ -33,7 +33,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_circle_up.png",
 	            "bitmapscale": "1.0;1.1",
 	            "bitmaptype": "floating",
-	            "href": "/панорама/левое%20крыло%202.html",
+	            "href": "/panor/левое%20крыло%202.html",
 	            "opacity": "1.00;1.00",
 	            "position": "40.5576,9.4485",
 	            "target": "",
