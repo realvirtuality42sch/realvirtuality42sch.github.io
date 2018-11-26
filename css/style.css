@@ -20,6 +20,10 @@ section {
     width: 90%;
 }
 
+#ecscursion {
+    background: url(../img/2.svg) center top / cover no-repeat fixed;
+}
+
 .padding-10 {
     padding: 10px 0;
 }
