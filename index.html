@@ -34,7 +34,7 @@
 
   <!-- Start your project here-->
   <!--Navbar-->
-    <nav class="navbar fixed-top navbar-light aqua-gradient lighten-4 mb-4">
+    <nav id="menu" class="navbar fixed-top navbar-light aqua-gradient lighten-4 mb-4">
 
         <!-- Navbar brand -->
         <a class="navbar-brand" href="#">Реальная Виртуальность</a>
@@ -375,6 +375,24 @@
         $preloader.delay(350).slideUp('slow');
     });
   </script>
+	
+	<script>
+    $(document).ready(function(){
+        $("#menu").on("click","a", function (event)     {
+            //отменяем стандартную обработку нажатия по ссылке
+            event.preventDefault();
+ 
+            //забираем идентификатор бока с атрибута href
+            var id  = $(this).attr('href'),
+ 
+            //узнаем высоту от начала страницы до блока на который ссылается якорь
+                top = $(id).offset().top;
+         
+            //анимируем переход на расстояние - top за 1500 мс
+            $('body,html').animate({scrollTop: top - -100}, 1500);
+        });
+    });
+    </script>
   
 </body>
 
