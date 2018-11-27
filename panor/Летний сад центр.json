@@ -66,6 +66,86 @@ PanoramaStudioViewerParams = {
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "https://realvirtuality42sch.github.io/geography.html",
+	            "opacity": "1.00;1.00",
+	            "position": "38.4645,8.6707",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "География"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "https://realvirtuality42sch.github.io/biology.html",
+	            "opacity": "1.00;1.00",
+	            "position": "271.0584,11.4416",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "биология "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/черение.html",
+	            "opacity": "1.00;1.00",
+	            "position": "57.6881,15.8304",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "черчение "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_down.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/2%20этаж%20старшее%20крыло.html",
+	            "opacity": "1.00;1.00",
+	            "position": "66.0866,-0.9675",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "3 этаж "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_left.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/зеркала.html",
+	            "opacity": "1.00;1.00",
+	            "position": "330.0201,1.7863",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "зеркальный зал "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {
