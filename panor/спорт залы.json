@@ -55,6 +55,22 @@ PanoramaStudioViewerParams = {
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/коридор%20кубки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "227.8742,7.6038",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Кубки"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {

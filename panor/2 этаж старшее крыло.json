@@ -24,14 +24,95 @@ PanoramaStudioViewerParams = {
 	    },
 	"camera": {
 	        "maxpan": 360,
-	        "maxtilt": 33.94463667820068,
+	        "maxtilt": 20.449579495802524,
 	        "minpan": 0,
-	        "mintilt": -24.693803530113566
+	        "mintilt": -16.1205438101491
+	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/картины.html",
+	            "opacity": "1.00;1.00",
+	            "position": "77.2759,8.4665",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/коридор%20кубки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "247.7017,13.2318",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "https://realvirtuality42sch.github.io/infomat.html",
+	            "opacity": "1.00;1.00",
+	            "position": "171.4655,7.5507",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "информатика"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_left.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "https://realvirtuality42sch.github.io/belarusian.html",
+	            "opacity": "1.00;1.00",
+	            "position": "166.1121,2.0403",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "https://realvirtuality42sch.github.io/russian.html",
+	            "opacity": "1.00;1.00",
+	            "position": "161.9224,7.3179",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/черение.html",
+	            "opacity": "1.00;1.00",
+	            "position": "253.7069,5.8433",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Черчение "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
 	    },
 	"id": "2 этаж старшее крыло",
-	"image":{"baseindex":1,"bitmap":[{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1f_%0y_%0x.jpg"},"height":7209,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1u_%0y_%0x.jpg"},"width":7209},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2f_%0y_%0x.jpg"},"height":3604,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2u_%0y_%0x.jpg"},"width":3604},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3f_%0y_%0x.jpg"},"height":1802,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3u_%0y_%0x.jpg"},"width":1802},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4f_%0y_%0x.jpg"},"height":901,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4u_%0y_%0x.jpg"},"width":901},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5f_%0y_%0x.jpg"},"height":450,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5u_%0y_%0x.jpg"},"width":450}],"multilevel":true,"preview":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_preview.jpg"},"projection":"cubic"},
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1f_%0y_%0x.jpg"},"height":7384,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_1u_%0y_%0x.jpg"},"width":7384},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2f_%0y_%0x.jpg"},"height":3692,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_2u_%0y_%0x.jpg"},"width":3692},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3f_%0y_%0x.jpg"},"height":1846,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_3u_%0y_%0x.jpg"},"width":1846},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4f_%0y_%0x.jpg"},"height":923,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_4u_%0y_%0x.jpg"},"width":923},{"back":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5b_%0y_%0x.jpg"},"down":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5d_%0y_%0x.jpg"},"front":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5f_%0y_%0x.jpg"},"height":461,"left":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5l_%0y_%0x.jpg"},"right":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_t_5u_%0y_%0x.jpg"},"width":461}],"multilevel":true,"preview":{"src":"2 этаж старшее крыло_tiles/2 этаж старшее крыло_preview.jpg"},"projection":"cubic"},
 	"view": {
-	        "hfov": 87.95766031247138,
+	        "hfov": 54.85518495892744,
 	        "pan": 180,
 	        "tilt": 0
 	    }

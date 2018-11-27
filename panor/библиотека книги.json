@@ -28,6 +28,22 @@ PanoramaStudioViewerParams = {
 	        "minpan": 0,
 	        "mintilt": -19.792599895374952
 	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/библиотека%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "96.1004,12.2533",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
 	"id": "библиотека книги",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"библиотека книги_tiles/библиотека книги_t_1b_%0y_%0x.jpg"},"down":{"src":"библиотека книги_tiles/библиотека книги_t_1d_%0y_%0x.jpg"},"front":{"src":"библиотека книги_tiles/библиотека книги_t_1f_%0y_%0x.jpg"},"height":6696,"left":{"src":"библиотека книги_tiles/библиотека книги_t_1l_%0y_%0x.jpg"},"right":{"src":"библиотека книги_tiles/библиотека книги_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"библиотека книги_tiles/библиотека книги_t_1u_%0y_%0x.jpg"},"width":6696},{"back":{"src":"библиотека книги_tiles/библиотека книги_t_2b_%0y_%0x.jpg"},"down":{"src":"библиотека книги_tiles/библиотека книги_t_2d_%0y_%0x.jpg"},"front":{"src":"библиотека книги_tiles/библиотека книги_t_2f_%0y_%0x.jpg"},"height":3348,"left":{"src":"библиотека книги_tiles/библиотека книги_t_2l_%0y_%0x.jpg"},"right":{"src":"библиотека книги_tiles/библиотека книги_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"библиотека книги_tiles/библиотека книги_t_2u_%0y_%0x.jpg"},"width":3348},{"back":{"src":"библиотека книги_tiles/библиотека книги_t_3b_%0y_%0x.jpg"},"down":{"src":"библиотека книги_tiles/библиотека книги_t_3d_%0y_%0x.jpg"},"front":{"src":"библиотека книги_tiles/библиотека книги_t_3f_%0y_%0x.jpg"},"height":1674,"left":{"src":"библиотека книги_tiles/библиотека книги_t_3l_%0y_%0x.jpg"},"right":{"src":"библиотека книги_tiles/библиотека книги_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"библиотека книги_tiles/библиотека книги_t_3u_%0y_%0x.jpg"},"width":1674},{"back":{"src":"библиотека книги_tiles/библиотека книги_t_4b_%0y_%0x.jpg"},"down":{"src":"библиотека книги_tiles/библиотека книги_t_4d_%0y_%0x.jpg"},"front":{"src":"библиотека книги_tiles/библиотека книги_t_4f_%0y_%0x.jpg"},"height":837,"left":{"src":"библиотека книги_tiles/библиотека книги_t_4l_%0y_%0x.jpg"},"right":{"src":"библиотека книги_tiles/библиотека книги_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"библиотека книги_tiles/библиотека книги_t_4u_%0y_%0x.jpg"},"width":837},{"back":{"src":"библиотека книги_tiles/библиотека книги_t_5b_%0y_%0x.jpg"},"down":{"src":"библиотека книги_tiles/библиотека книги_t_5d_%0y_%0x.jpg"},"front":{"src":"библиотека книги_tiles/библиотека книги_t_5f_%0y_%0x.jpg"},"height":418,"left":{"src":"библиотека книги_tiles/библиотека книги_t_5l_%0y_%0x.jpg"},"right":{"src":"библиотека книги_tiles/библиотека книги_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"библиотека книги_tiles/библиотека книги_t_5u_%0y_%0x.jpg"},"width":418}],"multilevel":true,"preview":{"src":"библиотека книги_tiles/библиотека книги_preview.jpg"},"projection":"cubic"},
 	"view": {

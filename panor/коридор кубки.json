@@ -39,6 +39,65 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_left.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/Новая%20панорама%203.html",
+	            "opacity": "1.00;1.00",
+	            "position": "52.1714,2.9956",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/библиотека%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "230.7859,8.0252",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Библиотека "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/спорт%20залы.html",
+	            "opacity": "1.00;1.00",
+	            "position": "316.6207,17.2803",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "спорт залы\n"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/2%20этаж%20старшее%20крыло.html",
+	            "opacity": "1.00;1.00",
+	            "position": "230.7175,1.1652",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "3 этаж "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {

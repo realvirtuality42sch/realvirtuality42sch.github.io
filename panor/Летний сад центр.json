@@ -50,6 +50,22 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_left.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/отдых%202.html",
+	            "opacity": "1.00;1.00",
+	            "position": "327.9549,13.9028",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Методический кабинет "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {

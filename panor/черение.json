@@ -28,6 +28,43 @@ PanoramaStudioViewerParams = {
 	        "minpan": 0,
 	        "mintilt": -34.3240935160419
 	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/2%20этаж%20старшее%20крыло.html",
+	            "opacity": "1.00;1.00",
+	            "position": "210.9295,7.5557",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "3 этаж "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/Летний%20сад%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "195.3792,6.6319",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Летний сад"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
 	"id": "черение",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"черение_tiles/черение_t_1b_%0y_%0x.jpg"},"down":{"src":"черение_tiles/черение_t_1d_%0y_%0x.jpg"},"front":{"src":"черение_tiles/черение_t_1f_%0y_%0x.jpg"},"height":6698,"left":{"src":"черение_tiles/черение_t_1l_%0y_%0x.jpg"},"right":{"src":"черение_tiles/черение_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"черение_tiles/черение_t_1u_%0y_%0x.jpg"},"width":6698},{"back":{"src":"черение_tiles/черение_t_2b_%0y_%0x.jpg"},"down":{"src":"черение_tiles/черение_t_2d_%0y_%0x.jpg"},"front":{"src":"черение_tiles/черение_t_2f_%0y_%0x.jpg"},"height":3349,"left":{"src":"черение_tiles/черение_t_2l_%0y_%0x.jpg"},"right":{"src":"черение_tiles/черение_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"черение_tiles/черение_t_2u_%0y_%0x.jpg"},"width":3349},{"back":{"src":"черение_tiles/черение_t_3b_%0y_%0x.jpg"},"down":{"src":"черение_tiles/черение_t_3d_%0y_%0x.jpg"},"front":{"src":"черение_tiles/черение_t_3f_%0y_%0x.jpg"},"height":1674,"left":{"src":"черение_tiles/черение_t_3l_%0y_%0x.jpg"},"right":{"src":"черение_tiles/черение_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"черение_tiles/черение_t_3u_%0y_%0x.jpg"},"width":1674},{"back":{"src":"черение_tiles/черение_t_4b_%0y_%0x.jpg"},"down":{"src":"черение_tiles/черение_t_4d_%0y_%0x.jpg"},"front":{"src":"черение_tiles/черение_t_4f_%0y_%0x.jpg"},"height":837,"left":{"src":"черение_tiles/черение_t_4l_%0y_%0x.jpg"},"right":{"src":"черение_tiles/черение_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"черение_tiles/черение_t_4u_%0y_%0x.jpg"},"width":837},{"back":{"src":"черение_tiles/черение_t_5b_%0y_%0x.jpg"},"down":{"src":"черение_tiles/черение_t_5d_%0y_%0x.jpg"},"front":{"src":"черение_tiles/черение_t_5f_%0y_%0x.jpg"},"height":418,"left":{"src":"черение_tiles/черение_t_5l_%0y_%0x.jpg"},"right":{"src":"черение_tiles/черение_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"черение_tiles/черение_t_5u_%0y_%0x.jpg"},"width":418}],"multilevel":true,"preview":{"src":"черение_tiles/черение_preview.jpg"},"projection":"cubic"},
 	"view": {

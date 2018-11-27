@@ -1,0 +1,68 @@
+PanoramaStudioViewerParams = {
+"panoramaStudioViewer": {
+"key": "",
+"control": {
+        "mousemode": "drag",
+        "touchmode": "drag"
+    },
+"data": {
+        "id": "globalData",
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+    },
+"include": [
+        {
+            "src": "коридор_controls.json"
+        }
+    ],
+"node": {
+	"autoplay": {
+	        "pan": 2,
+	        "restart": 5,
+	        "status": "off",
+	        "tilt": 0,
+	        "zoom": 1
+	    },
+	"camera": {
+	        "maxpan": 360,
+	        "maxtilt": 21.072162870105203,
+	        "minpan": 0,
+	        "mintilt": -19.35461911475984
+	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/хол%20левая%20часть.html",
+	            "opacity": "1.00;1.00",
+	            "position": "26.2692,9.4840",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/коридор%20библиотеки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "215.0914,7.5088",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
+	"id": "коридор",
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"коридор_tiles/коридор_t_1b_%0y_%0x.jpg"},"down":{"src":"коридор_tiles/коридор_t_1d_%0y_%0x.jpg"},"front":{"src":"коридор_tiles/коридор_t_1f_%0y_%0x.jpg"},"height":6962,"left":{"src":"коридор_tiles/коридор_t_1l_%0y_%0x.jpg"},"right":{"src":"коридор_tiles/коридор_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"коридор_tiles/коридор_t_1u_%0y_%0x.jpg"},"width":6962},{"back":{"src":"коридор_tiles/коридор_t_2b_%0y_%0x.jpg"},"down":{"src":"коридор_tiles/коридор_t_2d_%0y_%0x.jpg"},"front":{"src":"коридор_tiles/коридор_t_2f_%0y_%0x.jpg"},"height":3481,"left":{"src":"коридор_tiles/коридор_t_2l_%0y_%0x.jpg"},"right":{"src":"коридор_tiles/коридор_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"коридор_tiles/коридор_t_2u_%0y_%0x.jpg"},"width":3481},{"back":{"src":"коридор_tiles/коридор_t_3b_%0y_%0x.jpg"},"down":{"src":"коридор_tiles/коридор_t_3d_%0y_%0x.jpg"},"front":{"src":"коридор_tiles/коридор_t_3f_%0y_%0x.jpg"},"height":1740,"left":{"src":"коридор_tiles/коридор_t_3l_%0y_%0x.jpg"},"right":{"src":"коридор_tiles/коридор_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"коридор_tiles/коридор_t_3u_%0y_%0x.jpg"},"width":1740},{"back":{"src":"коридор_tiles/коридор_t_4b_%0y_%0x.jpg"},"down":{"src":"коридор_tiles/коридор_t_4d_%0y_%0x.jpg"},"front":{"src":"коридор_tiles/коридор_t_4f_%0y_%0x.jpg"},"height":870,"left":{"src":"коридор_tiles/коридор_t_4l_%0y_%0x.jpg"},"right":{"src":"коридор_tiles/коридор_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"коридор_tiles/коридор_t_4u_%0y_%0x.jpg"},"width":870},{"back":{"src":"коридор_tiles/коридор_t_5b_%0y_%0x.jpg"},"down":{"src":"коридор_tiles/коридор_t_5d_%0y_%0x.jpg"},"front":{"src":"коридор_tiles/коридор_t_5f_%0y_%0x.jpg"},"height":435,"left":{"src":"коридор_tiles/коридор_t_5l_%0y_%0x.jpg"},"right":{"src":"коридор_tiles/коридор_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"коридор_tiles/коридор_t_5u_%0y_%0x.jpg"},"width":435}],"multilevel":true,"preview":{"src":"коридор_tiles/коридор_preview.jpg"},"projection":"cubic"},
+	"view": {
+	        "hfov": 60.640172977297574,
+	        "pan": 180,
+	        "tilt": 0
+	    }
+},
+"version": "4.1"
+}
+}

@@ -1,0 +1,79 @@
+PanoramaStudioViewerParams = {
+"panoramaStudioViewer": {
+"key": "",
+"control": {
+        "mousemode": "drag",
+        "touchmode": "drag"
+    },
+"data": {
+        "id": "globalData",
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+    },
+"include": [
+        {
+            "src": "2 этаж младшее крыло_controls.json"
+        }
+    ],
+"node": {
+	"autoplay": {
+	        "pan": 2,
+	        "restart": 5,
+	        "status": "off",
+	        "tilt": 0,
+	        "zoom": 1
+	    },
+	"camera": {
+	        "maxpan": 360,
+	        "maxtilt": 20.808721699919776,
+	        "minpan": 0,
+	        "mintilt": -15.517771702233311
+	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/коридор%20кубки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "78.3931,8.5033",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/кори4дор%20кубки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "143.9379,14.6483",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/коридор%20библиотеки.html",
+	            "opacity": "1.00;1.00",
+	            "position": "240.2069,14.2758",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
+	"id": "2 этаж младшее крыло",
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1b_%0y_%0x.jpg"},"down":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1d_%0y_%0x.jpg"},"front":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1f_%0y_%0x.jpg"},"height":7384,"left":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1l_%0y_%0x.jpg"},"right":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_1u_%0y_%0x.jpg"},"width":7384},{"back":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2b_%0y_%0x.jpg"},"down":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2d_%0y_%0x.jpg"},"front":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2f_%0y_%0x.jpg"},"height":3692,"left":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2l_%0y_%0x.jpg"},"right":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_2u_%0y_%0x.jpg"},"width":3692},{"back":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3b_%0y_%0x.jpg"},"down":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3d_%0y_%0x.jpg"},"front":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3f_%0y_%0x.jpg"},"height":1846,"left":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3l_%0y_%0x.jpg"},"right":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_3u_%0y_%0x.jpg"},"width":1846},{"back":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4b_%0y_%0x.jpg"},"down":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4d_%0y_%0x.jpg"},"front":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4f_%0y_%0x.jpg"},"height":923,"left":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4l_%0y_%0x.jpg"},"right":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_4u_%0y_%0x.jpg"},"width":923},{"back":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5b_%0y_%0x.jpg"},"down":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5d_%0y_%0x.jpg"},"front":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5f_%0y_%0x.jpg"},"height":461,"left":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5l_%0y_%0x.jpg"},"right":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_t_5u_%0y_%0x.jpg"},"width":461}],"multilevel":true,"preview":{"src":"2 этаж младшее крыло_tiles/2 этаж младшее крыло_preview.jpg"},"projection":"cubic"},
+	"view": {
+	        "hfov": 54.489740103229636,
+	        "pan": 180,
+	        "tilt": 0
+	    }
+},
+"version": "4.1"
+}
+}

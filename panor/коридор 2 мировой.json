@@ -33,14 +33,14 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_circle_up.png",
 	            "bitmapscale": "1.0;1.1",
 	            "bitmaptype": "floating",
-	            "href": "",
+	            "href": "/panor/Вьетнам.html",
 	            "opacity": "1.00;1.00",
 	            "position": "96.8839,15.3754",
 	            "target": "",
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "Вьетнам"
+	                "text": "Экспозиция Дань памяти погибшим в Авганской войне"
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
@@ -49,9 +49,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_circle_up.png",
 	            "bitmapscale": "1.0;1.1",
 	            "bitmaptype": "floating",
-	            "href": "",
+	            "href": "/panor/коридор%20матем.html",
 	            "opacity": "1.00;1.00",
-	            "position": "270.6629,12.7233",
+	            "position": "271.9717,9.9861",
 	            "target": "",
 	            "transition": "zoomin,2",
 	            "unit": "deg"
