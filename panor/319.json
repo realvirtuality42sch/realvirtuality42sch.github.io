@@ -33,7 +33,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_circle_up.png",
 	            "bitmapscale": "1.0;1.1",
 	            "bitmaptype": "floating",
-	            "href": "/2%20этаж%20старшее%20крыло.html",
+	            "href": "/panor/2%20этаж%20старшее%20крыло.html",
 	            "opacity": "1.00;1.00",
 	            "position": "175.3881,10.1060",
 	            "target": "",
