@@ -162,5 +162,6 @@ height: 100%;
         margin: 0 auto;
         background: center top/cover;
         margin-right: 50%;
+        width: 100%;
     }
 }
