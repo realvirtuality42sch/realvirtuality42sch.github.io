@@ -3,6 +3,10 @@
     padding: 65px 0;
 }
 
+p {
+    text-align: justify;
+}
+
 .margin-center {
     margin: 0 auto;
 }
