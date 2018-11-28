@@ -160,8 +160,6 @@ height: 100%;
 @media screen and (max-width: 768px) {
     .io {
         margin: 0 auto;
-        background: center top/cover;
-        margin-right: 50%;
-        width: 100%;
+        left: -60%;
     }
 }
