@@ -62,7 +62,7 @@ PanoramaStudioViewerParams = {
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "Методический кабинет "
+	                "text": " кабинет психологической разгрузки  "
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
@@ -89,7 +89,7 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "https://realvirtuality42sch.github.io/biology.html",
 	            "opacity": "1.00;1.00",
-	            "position": "271.0584,11.4416",
+	            "position": "271.1961,14.1954",
 	            "target": "",
 	            "textbox": {
 	                "align": "top",
@@ -137,7 +137,7 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "/panor/зеркала.html",
 	            "opacity": "1.00;1.00",
-	            "position": "330.0201,1.7863",
+	            "position": "328.9186,1.7863",
 	            "target": "",
 	            "textbox": {
 	                "align": "top",

@@ -28,6 +28,43 @@ PanoramaStudioViewerParams = {
 	        "minpan": 0,
 	        "mintilt": -25.66606371332671
 	    },
+	"hotspot": [
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/Летний%20сад%20центр.html",
+	            "opacity": "1.00;1.00",
+	            "position": "142.4210,7.7487",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Зимний сад"
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_right.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/зеркала.html",
+	            "opacity": "1.00;1.00",
+	            "position": "143.4553,-3.4241",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Зеркала "
+	            },
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        }
+	    ],
+	"hotspots": {
+	        "visible": true
+	    },
 	"id": "биология",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"биология_tiles/биология_t_1b_%0y_%0x.jpg"},"down":{"src":"биология_tiles/биология_t_1d_%0y_%0x.jpg"},"front":{"src":"биология_tiles/биология_t_1f_%0y_%0x.jpg"},"height":6647,"left":{"src":"биология_tiles/биология_t_1l_%0y_%0x.jpg"},"right":{"src":"биология_tiles/биология_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"биология_tiles/биология_t_1u_%0y_%0x.jpg"},"width":6647},{"back":{"src":"биология_tiles/биология_t_2b_%0y_%0x.jpg"},"down":{"src":"биология_tiles/биология_t_2d_%0y_%0x.jpg"},"front":{"src":"биология_tiles/биология_t_2f_%0y_%0x.jpg"},"height":3323,"left":{"src":"биология_tiles/биология_t_2l_%0y_%0x.jpg"},"right":{"src":"биология_tiles/биология_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"биология_tiles/биология_t_2u_%0y_%0x.jpg"},"width":3323},{"back":{"src":"биология_tiles/биология_t_3b_%0y_%0x.jpg"},"down":{"src":"биология_tiles/биология_t_3d_%0y_%0x.jpg"},"front":{"src":"биология_tiles/биология_t_3f_%0y_%0x.jpg"},"height":1661,"left":{"src":"биология_tiles/биология_t_3l_%0y_%0x.jpg"},"right":{"src":"биология_tiles/биология_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"биология_tiles/биология_t_3u_%0y_%0x.jpg"},"width":1661},{"back":{"src":"биология_tiles/биология_t_4b_%0y_%0x.jpg"},"down":{"src":"биология_tiles/биология_t_4d_%0y_%0x.jpg"},"front":{"src":"биология_tiles/биология_t_4f_%0y_%0x.jpg"},"height":831,"left":{"src":"биология_tiles/биология_t_4l_%0y_%0x.jpg"},"right":{"src":"биология_tiles/биология_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"биология_tiles/биология_t_4u_%0y_%0x.jpg"},"width":831},{"back":{"src":"биология_tiles/биология_t_5b_%0y_%0x.jpg"},"down":{"src":"биология_tiles/биология_t_5d_%0y_%0x.jpg"},"front":{"src":"биология_tiles/биология_t_5f_%0y_%0x.jpg"},"height":415,"left":{"src":"биология_tiles/биология_t_5l_%0y_%0x.jpg"},"right":{"src":"биология_tiles/биология_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"биология_tiles/биология_t_5u_%0y_%0x.jpg"},"width":415}],"multilevel":true,"preview":{"src":"биология_tiles/биология_preview.jpg"},"projection":"cubic"},
 	"view": {

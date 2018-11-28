@@ -55,6 +55,17 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/2%20этаж%20директор.html",
+	            "opacity": "1.00;1.00",
+	            "position": "195.9371,9.3329",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {
