@@ -37,10 +37,32 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "83.0848,15.7946",
 	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_up.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/картины.html",
+	            "opacity": "1.00;1.00",
+	            "position": "259.1260,15.1776",
+	            "target": "",
+	            "transition": "zoomin,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_circle_down.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "/panor/комнота%20матери.html",
+	            "opacity": "1.00;1.00",
+	            "position": "273.6247,-6.7261",
+	            "target": "",
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "Экспозиция Дань памяти погибшим в Авганской войне"
+	                "text": "Комната матери"
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
@@ -49,25 +71,14 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_circle_up.png",
 	            "bitmapscale": "1.0;1.1",
 	            "bitmaptype": "floating",
-	            "href": "/panor/2%20этаж%20старшее%20крыло.html",
+	            "href": "/panor/музей%201.html",
 	            "opacity": "1.00;1.00",
-	            "position": "259.1260,15.1776",
-	            "target": "",
-	            "transition": "zoomin,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "bitmap": "pap_circle_up.png",
-	            "bitmapscale": "1.0;1.1",
-	            "bitmaptype": "floating",
-	            "href": "/panor/комнота%20матери.html",
-	            "opacity": "1.00;1.00",
-	            "position": "287.9692,18.2626",
+	            "position": "288.4319,18.1084",
 	            "target": "",
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "комната матери"
+	                "text": "Музей матери и ВОВ"
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
