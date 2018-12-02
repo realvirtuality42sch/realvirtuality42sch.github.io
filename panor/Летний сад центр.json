@@ -37,6 +37,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "78.3402,13.0767",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": " левая часть   "
+	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
 	        },
@@ -48,6 +53,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "254.7777,14.7978",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": " правая часть  "
+	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
 	        },
@@ -110,7 +120,7 @@ PanoramaStudioViewerParams = {
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "черчение "
+	                "text": "Кабинет Изобразительного исскуства  "
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"

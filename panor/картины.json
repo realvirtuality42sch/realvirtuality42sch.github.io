@@ -37,6 +37,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "83.0848,15.7946",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Экспозиция Дань памяти погибшим в Авганской войне"
+	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
 	        },

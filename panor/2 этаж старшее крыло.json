@@ -62,7 +62,7 @@ PanoramaStudioViewerParams = {
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "информатика"
+	                "text": "Информатика"
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
@@ -75,6 +75,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "166.1121,2.0403",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Белорусский язык и литература "
+	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
 	        },
@@ -86,6 +91,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "161.9224,7.3179",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Русский язык и литература"
+	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
 	        },
@@ -100,7 +110,7 @@ PanoramaStudioViewerParams = {
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "Черчение "
+	                "text": "Кабинет изобразительного исскуства "
 	            },
 	            "transition": "zoomin,2",
 	            "unit": "deg"
