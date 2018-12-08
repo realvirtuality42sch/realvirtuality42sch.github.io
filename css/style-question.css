@@ -1,5 +1,6 @@
 body {
     background: url(../img/123.jpg) no-repeat center top / cover;
+    height: 100%;
 }
 
 .card-shandy {
@@ -11,4 +12,6 @@ body {
 .p {
     padding-top: 15px;
     padding-left: 15px;
+    margin-top: 15pc;
+    text-aling: center;
 }
